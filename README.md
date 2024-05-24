@@ -49,7 +49,7 @@ The Library Management System backend provides a robust API for managing library
     Create a MySQL database and update the `application.properties` file with your database configuration:
 
     ```properties
-    spring.datasource.url=jdbc:mysql://localhost:3306/librarydb
+    spring.datasource.url=jdbc:mysql://localhost:3306/library
     spring.datasource.username=root
     spring.datasource.password=password
     ```
